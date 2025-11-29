@@ -1,8 +1,6 @@
-## Hey 👋, I'm Asaad Suliman
-
-<a href='https://www.linkedin.com/in/asaad-suliman'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
-<br/><br/>
+<p align="center">
+  <img width="80%" alt="Hello, I'm Asaad." src="https://img.shields.io/badge/Asaad%20Suliman-AI%20Engineer-informational?style=for-the-badge&color=1e90ff" />
+</p>
 
 I focus on Artificial Intelligence and love building things that combine solid engineering with modern AI.  
 I'm especially interested in creating AI agents, experimenting with LLMs, and developing tools powered by MCP, automation, and machine learning.
