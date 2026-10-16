@@ -16,14 +16,15 @@ I'm especially interested in creating AI agents, experimenting with LLMs, and de
 **Languages:** Python, JavaScript, C, HTML/CSS  
 **AI & Data:** NumPy, Pandas, scikit-learn, deep learning basics, NLP  
 **AI Systems:** LLM workflows, RAG, embeddings, vector stores, MCP tools  
-**Tools:** Git/GitHub, VS Code, Docker (learning), Jupyter  
+**Tools:** Git/GitHub, VS Code, Docker, Jupyter  
 
-### 📌 Projects & Work
-- AI-powered utilities and local MCP agents  
-- LLM integrations with automated tool calling  
-- Machine learning experiments and Kaggle-ready models  
-- Building lightweight assistants that solve real problems  
-- Continuous exploration of new AI techniques and workflows  
+### 📌 Featured Projects
+| Project | What it does |
+|---|---|
+| [**safe-mcp-suite**](https://github.com/Asaad-Suliman/safe-mcp-suite) | Two MCP servers, a terminal and a file organizer, sharing one safety core that neither can bypass. |
+| [**hardened-terminal-mcp**](https://github.com/Asaad-Suliman/hardened-terminal-mcp) | Security-hardened MCP server for terminal access: deny-by-default policy, `shell=False` execution, cwd jail, secret redaction, fail-closed audit log. |
+| [**ai-code-analyst**](https://github.com/Asaad-Suliman/ai-code-analyst) | Multi-agent system that finds bugs, security issues and performance problems in Python code, then proves its optimizations by running both versions in a Docker sandbox. |
+| [**DocuChat-AI**](https://github.com/Asaad-Suliman/DocuChat-AI) | Chat with your PDF, DOCX and TXT files: a RAG app with LangChain, ChromaDB and Gradio. |
 
 ### 📫 Connect
 - **LinkedIn:** https://www.linkedin.com/in/asaad-suliman  
